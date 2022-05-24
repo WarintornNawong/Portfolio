@@ -3,6 +3,7 @@
  
 ## Machine Learning 
 - [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) :
+- [Company Bankruptcy Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Bankruptcy%20Prediction) :
 
 ## Deep learning
 - [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) :

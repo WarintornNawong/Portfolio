@@ -11,5 +11,6 @@
 - [Traffic Sign Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Traffic_Sign_Classification) :
 - [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) :
 - [Coronavirus_Tweets_Sentiment_Analysis](https://github.com/WarintornNawong/Portfolio/tree/main/Corona_Virus_Tweet_Text_Classification) :
+- [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification)
 
 

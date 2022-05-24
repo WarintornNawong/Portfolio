@@ -5,7 +5,7 @@
 - [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) :
 - [Company Bankruptcy Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Bankruptcy%20Prediction) :
 - [Customer Churn Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Customer_Churn_Prediction) :
-- [New Airport Route Recommendation] (https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) :
+- [New Airport Route Recommendation](https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) :
 
 ## Deep learning
 - [Traffic Sign Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Traffic_Sign_Classification) :

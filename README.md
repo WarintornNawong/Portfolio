@@ -7,6 +7,7 @@
 - [Customer Churn Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Customer_Churn_Prediction) :
 
 ## Deep learning
+- [Traffic Sign Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Traffic_Sign_Classification) :
 - [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) :
 
 

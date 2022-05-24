@@ -102,3 +102,7 @@ The stylized picture is the following Pattaya city landmark,
 
 ![image](https://user-images.githubusercontent.com/104628789/170066823-c4179c5b-fb5c-4872-a24b-d4df75b2809c.png)
 
+## Notebook
+
+you can find the notebook in this [link](https://github.com/WarintornNawong/Portfolio/blob/main/Digital_Art_Museum/Museum%20Digital%20Art%20Generation%20from%20Chonburi%20Place.ipynb) 
+

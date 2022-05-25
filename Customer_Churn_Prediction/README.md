@@ -122,7 +122,8 @@ the key feature importance for each algorithm use to predict customer churn prob
 
 the top 3 key feature importanfe after combination of all algorithm are "Contract type, tenure and payment method"
 
-
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Customer_Churn_Prediction/Telco%20Customer%20Churn%20Prediction.ipynb)
 
 
 

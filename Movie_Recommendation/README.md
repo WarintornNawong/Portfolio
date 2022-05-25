@@ -62,5 +62,26 @@ This step is to merge between the similarity score for being a representative sc
 
 **Personalised Favourite Score** = Similarity Score * prediction Rating / 2.5
 
+### RECOMMENDATION NO.1
+
+10 recommended movie for UserID : 5 who have previously watched "Harry Potter and the Goblet of Fire"
+
+array(["Harry Potter and the Philosopher's Stone",
+       'Harry Potter and the Half-Blood Prince',
+       'Harry Potter and the Prisoner of Azkaban',
+       'Harry Potter and the Chamber of Secrets',
+       'Harry Potter and the Order of the Phoenix',
+       'Love in the Time of Cholera', 'Eragon',
+       'Prince of Persia: The Sands of Time', 'The Golden Compass',
+       'Mona Lisa Smile'], dtype=object)
+
+### RECOMMENDATION NO.2
+5 recommended movie for UserID : 3 who have previously watched "Titanic"
+
+array(['Terminator 2: Judgment Day', 'Revolutionary Road',
+       'Almost Famous', 'True Lies', 'Vanilla Sky'], dtype=object)
+       
+## Notebook
+you can find the notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Movie_Recommendation/Movie%20Recommendation.ipynb)
 
 

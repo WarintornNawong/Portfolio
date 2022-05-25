@@ -1,6 +1,6 @@
 # Digital Art Museum
 ## Introduction 
-In this project, i would like to produce a digital art from the place where i was born - "Chonburi" to be a tools to enable  benefit for user who implement this for example, to be an idea/ creativity for campaigner in tourist attraction or any related activities of this province such as government activities etc.
+In this project, I would like to produce a digital art from the place where i was born - "Chonburi" to be a tools to enable  benefit for user who implement this for example, to be an idea/ creativity for campaigner in tourist attraction or any related activities of this province such as government activities etc.
 
 **Chonburi**, Bangkok’s nearest seaside town, is located on the eastern coast of the Gulf of Thailand with 1.4 million residents 
 million residents, only 80 kilometres from the capital. Neighbouring provinces are Chachoengsao, Chanthaburi, and Rayong, while the Gulf of Thailand is to the west. The area are full with abundant natural resources, which are highlighted by delightful Beaches, local traditions, regional delicacies, and fresh Seafood. This is a popular coastal province among Bangkokians who seek the nearest escape from hectic weekly schedules, escaping particularly frequently to the seaside resort of Pattaya. In addition to tourism, Chonburi is the centre of the Eastern Seaboard Development Project, with its industrial parks and Fishing villages.

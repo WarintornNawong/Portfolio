@@ -25,9 +25,51 @@ Triadic closure is a concept in social network theory and it is the property amo
 #### Recommendation
 
 - Kuala Lumpur   Malaysia to Hang Nadim   Indonesia
-- Singapore Changi  Singapore to Hang Nadim   Indon...
+- Singapore Changi  Singapore to Hang Nadim   Indonesia
 - Ninoy Aquino   Philippines to Don Mueang   Thailand
 - Brunei   Brunei to Ngurah Rai (Bali)   Indonesia
 - Phuket   Thailand to Tan Son Nhat   Vietnam
+
+## II. ASIA PACIFIC
+
+![image](https://user-images.githubusercontent.com/104628789/170213638-644e79dc-d3a5-488a-853d-51bf09871f6f.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170213695-14cf8d60-6873-4b16-8cfa-53c7690c108e.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170213767-16e35219-bcf0-403a-bfb9-d9f5987f5b31.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170213843-77d604a8-4efb-4e7c-b887-4fa9b9785dde.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170213892-59ba2cca-cd49-49dc-8bc2-076b225db9c6.png)
+
+#### Recommendation
+
+- Haikou Meilan   China to Incheon   South Korea
+- Taiwan Taoyuan   Taiwan to Don Mueang   Thailand
+- Liuting  China to Jeju   South Korea
+- Beijing Capital   China to Don Mueang   Thailand
+- Taiwan Taoyuan   Taiwan to Shanghai Hongqiao   China
+
+## III.MIDDLE EAST AND SOUTH ASIA 
+
+![image](https://user-images.githubusercontent.com/104628789/170214713-410809ff-70d1-4d55-b8ef-458e3cf83591.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170214817-96b29976-b086-4f08-9c8e-c904ae426a04.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170214916-a403b500-4e87-4410-a577-cb43fc3f16cf.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170215001-25fc75e4-f9a1-46d0-92e0-08eafdad629c.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170215064-c683a5a4-7cb0-4a78-8659-cac3332d08ac.png)
+
+#### Recommendation
+
+- Netaji Subhash Chandra Bose   India Sharjah UAE
+- Netaji Subhash Chandra Bose   India Abu Dhabi UAE
+- Sardar Vallabhbhai Patel   India Bandaranaike Srilanka
+- Sardar Vallabhbhai Patel   India Tribhuvan   Nepal
+- Indira Gandhi   India New Islamabad   Pakistan
+
+
 
 

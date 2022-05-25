@@ -9,9 +9,13 @@ This technique could enable lenders and investors to evaluate the likelihood of 
 ### DATASET
 The data I utilized to train model were derived from Kaggle Dataset in [Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction). The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange with Source from Deron Liang and Chih-Fong Tsai, National Central University, Taiwan. The data have 96 attribute including the bankruptcy label. The example of attribute is specified in following bullet,
 
-## PART I FEATURE SELECTION
-
 ## POST-FEATURE SELECTION
+the financial ration of the company will have more than 90 parameter which might cause inconveniet to construct high efficiency model so I decided to apply the feature engineering - Correlation-based and Modelbased feature selection. With the model based feature selection, I apply the random forest classifier alongside with Recursive Feature Elimination (RFE) to find the most optimal accuracy with appropriate number of features. 
+
+![image](https://user-images.githubusercontent.com/104628789/170246962-9d94e1b6-1b6e-4e34-aaa8-6f86c6a11ff9.png)
+
+The figure indicated that the most optimal number of parameter is 30 feature to contribute the highest accuracy among those number.
+
 With the results of RFE, They come out 30 key attribute which signify the bankruptcy status is the following detail,
 - ROA(C) before interest and depreciation before interest: Return On Total Assets(C)
 - Non-industry income and expenditure/revenue: Net Non-operating Income Ratio
@@ -60,9 +64,15 @@ With the results of RFE, They come out 30 key attribute which signify the bankru
 ![image](https://user-images.githubusercontent.com/104628789/170218940-a07bebee-8315-419c-8f9e-0776f4513e4d.png)
 ![image](https://user-images.githubusercontent.com/104628789/170220027-cc7115d4-e9e2-4b0e-9c87-5f066b559639.png)
 
+### Observation 
+These parameter showed obviously the different between bankrupt firm and non-bankrupt firm for example the company that went bankrupt would have high debt, liability  and low cash or liquidity which might lead to low income. However, some key employee-related indicator such as revenue per person or operating profit per person could not differentiate or signify the probility of bankruptcy in any firm.
 
-## PART III Model Development
-i select the class
-1. Random Forest
-2. Gradient Boosting
-3. AdaBoost
+## Model Construction
+I have selected the classification model from sklearn library to construct the model and measure performance the model in metrics - "Accuracy, Precision, Recall, F1 and ROC-AUC SCore". Due to high imbalance data, I decided to generate the data based on "Oversampling Apprach - SMOTE" to equalize the number of normal and bankrupted firm, Moreover, we have tuned the model hyperparameter of each model.
+
+1. Random Forest Classifier
+2. Gradient Boosting Classifier
+3. AdaBoost Classifier
+
+![image](https://user-images.githubusercontent.com/104628789/170244902-90f6a544-476e-4940-b542-1b10c7e1219f.png)
+

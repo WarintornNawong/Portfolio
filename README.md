@@ -1,5 +1,5 @@
 # The Data Science Portfolio
- This repository consisted of my portfolio in data science hands-on project 
+ This repository are my portfolio in data science hands-on project 
  
 ## Machine Learning 
 - [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) :

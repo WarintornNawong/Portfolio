@@ -76,3 +76,6 @@ I have selected the classification model from sklearn library to construct the m
 
 ![image](https://user-images.githubusercontent.com/104628789/170244902-90f6a544-476e-4940-b542-1b10c7e1219f.png)
 
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Bankruptcy%20Prediction/Company%20bankruptcy%20Prediction.ipynb)
+

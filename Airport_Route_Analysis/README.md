@@ -36,11 +36,12 @@ Triadic closure is a concept in social network theory and it is the property amo
 
 ![image](https://user-images.githubusercontent.com/104628789/170213695-14cf8d60-6873-4b16-8cfa-53c7690c108e.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170213767-16e35219-bcf0-403a-bfb9-d9f5987f5b31.png)
+![image](https://user-images.githubusercontent.com/104628789/170223554-ab5c1060-8ee7-48df-bb27-954ed7b17f8e.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170213843-77d604a8-4efb-4e7c-b887-4fa9b9785dde.png)
+![image](https://user-images.githubusercontent.com/104628789/170223485-f6132eb4-570b-482e-a104-fdfa499c758a.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170213892-59ba2cca-cd49-49dc-8bc2-076b225db9c6.png)
+![image](https://user-images.githubusercontent.com/104628789/170223762-54e89364-bc35-4d51-844b-6b2698761dd7.png)
+
 
 #### Recommendation
 
@@ -56,11 +57,12 @@ Triadic closure is a concept in social network theory and it is the property amo
 
 ![image](https://user-images.githubusercontent.com/104628789/170214817-96b29976-b086-4f08-9c8e-c904ae426a04.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170214916-a403b500-4e87-4410-a577-cb43fc3f16cf.png)
+![image](https://user-images.githubusercontent.com/104628789/170223853-7c155ac0-8db0-4d80-ac5a-4ead06c35ee9.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170215001-25fc75e4-f9a1-46d0-92e0-08eafdad629c.png)
+![image](https://user-images.githubusercontent.com/104628789/170223949-b577babb-6b4a-43c6-9c59-a0bf430a2503.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170215064-c683a5a4-7cb0-4a78-8659-cac3332d08ac.png)
+![image](https://user-images.githubusercontent.com/104628789/170224111-52b3de5e-319f-494f-9f40-6d03f5ffb478.png)
+
 
 #### Recommendation
 

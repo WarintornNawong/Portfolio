@@ -53,6 +53,8 @@ The Telco customer churn data contains information about a fictional telco compa
 
 ## Key Findings
 
+### Monthly Chrage and Tenure per attribute
+
 ![image](https://user-images.githubusercontent.com/104628789/170277795-390f1468-d454-47b2-a7d6-e770d561eee1.png)
 ![image](https://user-images.githubusercontent.com/104628789/170277890-dc7d83ec-1724-492d-912a-6918c715bf18.png)
 ![image](https://user-images.githubusercontent.com/104628789/170278011-d8f6ede4-4205-4fe3-aabf-597f4b563eb2.png)
@@ -70,8 +72,29 @@ The Telco customer churn data contains information about a fictional telco compa
 ![image](https://user-images.githubusercontent.com/104628789/170278821-a419a802-f4a4-4321-be60-c6aadfa6350e.png)
 ![image](https://user-images.githubusercontent.com/104628789/170278860-369ba101-8ef7-4d90-aeb1-3faf62006a55.png)
 
+### First Observation
+the most of churn customer always have less tenure period on almost every attribute such as Contract Type, Streaming or online Security Services etc. one of attribute that have less different in monthly charge and tenure is gerder. so it can be concluded that likelihood of churn is not relevant to gender. Moreover, they indicates that Contract type have higher charge for churn customer than non-churn.
 
+## #### Probability of Churn and Retention per attribute
+![image](https://user-images.githubusercontent.com/104628789/170279890-f7dadc57-5d8b-4a0d-9b8a-0d4b95bb1ac7.png)
+![image](https://user-images.githubusercontent.com/104628789/170279947-d07c92d7-b003-44f9-b9e8-e012b9442f0a.png)
+![image](https://user-images.githubusercontent.com/104628789/170279998-8832b6ca-9742-42a5-94e5-e8c154c95b4b.png)
+![image](https://user-images.githubusercontent.com/104628789/170280052-e6297693-437e-4b0f-bf65-4438dad45c8c.png)
+![image](https://user-images.githubusercontent.com/104628789/170280096-f9b72bd8-ce47-4fdb-bbd9-95deaa7a7d0a.png)
+![image](https://user-images.githubusercontent.com/104628789/170280139-2a401723-17e1-4610-92ab-12f110a49a50.png)
+![image](https://user-images.githubusercontent.com/104628789/170280226-7daf46eb-d081-4d47-923f-21e419a1f60f.png)
+![image](https://user-images.githubusercontent.com/104628789/170280424-2ad99c74-752c-4483-aa5f-08044690984e.png)
+![image](https://user-images.githubusercontent.com/104628789/170280463-8db7a9ab-1582-4fde-a7bf-7b5547edb9a8.png)
+![image](https://user-images.githubusercontent.com/104628789/170280500-bf64d780-1348-4dd9-82df-caa464f13b81.png)
+![image](https://user-images.githubusercontent.com/104628789/170280537-8787b9ca-7f31-4302-a5be-6b5e2a1bf7ea.png)
+![image](https://user-images.githubusercontent.com/104628789/170280574-cde93220-9add-41f6-b3ea-7ba76cf8b0ad.png)
+![image](https://user-images.githubusercontent.com/104628789/170280734-aa8fff52-fe11-4074-a0ce-e624e4fa3d4b.png)
+![image](https://user-images.githubusercontent.com/104628789/170280771-2b602dc7-7cc4-47af-86e9-29474e2eee1b.png)
+![image](https://user-images.githubusercontent.com/104628789/170280800-d5de7a10-3fa6-44f3-80b9-9c0393b12bcc.png)
+![image](https://user-images.githubusercontent.com/104628789/170280834-6da06f23-d6d1-439b-a70b-7cb31414ab0d.png)
 
+### Second Observation
+Fiber Optic in Internet Service, Phone Service, Tech Support, Electronics Check in Payment Method and Month-to-month contract tyoe contribute the significant churn probability than the rest of attribute.
 
 
 

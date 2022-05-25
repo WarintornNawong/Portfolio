@@ -72,6 +72,66 @@ Triadic closure is a concept in social network theory and it is the property amo
 - Sardar Vallabhbhai Patel   India Tribhuvan   Nepal
 - Indira Gandhi   India New Islamabad   Pakistan
 
+## IV. EUROPE
+
+![image](https://user-images.githubusercontent.com/104628789/170225638-21470f9c-4ea8-46a0-a95a-c6d8ea0a685a.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170225689-d5b5ed7c-038c-4b45-8e49-3f4fd11458bd.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170225750-9d8bac0e-692e-4d6a-8220-8e0cadd773b3.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170225984-fbc1605c-38bf-4ec7-aa19-250a23cc2df2.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170226183-7a0b4fa3-8da6-441f-bf50-e32f55d87351.png)
+
+#### Recommendation
+
+- Brussels South Charleroi  Belgium to London Stansted United Kingdom
+- Berlin-Tegel  Germany to London Gatwick  United Kingdom
+- Düsseldorf  Germany to Brussels  Belgium
+- Málaga  Spain Nice-Côte d'Azur  France
+- Berlin-Tegel  Germany Manchester  United Kingdom
+
+## V. North America
+
+![image](https://user-images.githubusercontent.com/104628789/170226774-4862e2cf-8a4a-490e-996a-0c5f9c7b07e1.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170226827-4d46ba43-6ddb-45e4-a352-253f140f822a.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170226900-55d9acbe-e6db-43af-a992-a474b2f89cf8.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170226960-47d10a7a-05d3-48c7-adc0-8b266726cbe0.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170227023-3e415b0d-588d-4bb0-82ac-2856fc5c6a83.png)
+
+#### Recommendation
+
+- Cancún   Mexico to McCarran   United States
+- Lester B. Pearson   Canada to Chicago Midway   United States
+- Cancún   Mexico to Tampa   United States
+- Phoenix Sky Harbor   United States to Montreal / Pierre Elliott Trudeau Canada
+- Cancún   Mexico San Diego   United States
+
+## VI. South America
+
+![image](https://user-images.githubusercontent.com/104628789/170227523-aba99246-8e03-4d5f-a91a-acd15d557f72.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170227570-29ef9a96-b95e-4844-ad84-8239a1a03915.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170227645-0c2fbdf2-3904-49e4-8c48-6fde28fdfe3b.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170227688-4db9d563-05bb-4864-beed-c90c050aaa67.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170227925-401b798b-08e8-41e9-94b1-9b417b7d6115.png)
+
+#### Recommendation
+
+- Jorge Newbery Airpark Argentina to Jorge Chávez  Peru
+- Carrasco  /General C L Berisso  Uruguay to Hercíl Brazil
+- Viracopos   Brazil to Ministro Pistarini   Argentina
+- Jorge Newbery Airpark Argentina to Congonhas  Brazil
+- Tancredo Neves   Brazil to Ministro Pistarini   Argentina
+
 
 
 

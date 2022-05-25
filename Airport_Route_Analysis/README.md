@@ -132,6 +132,17 @@ Triadic closure is a concept in social network theory and it is the property amo
 - Jorge Newbery Airpark Argentina to Congonhas  Brazil
 - Tancredo Neves   Brazil to Ministro Pistarini   Argentina
 
+## VII. World
+
+![image](https://user-images.githubusercontent.com/104628789/170228717-c0a831a5-663e-4802-9b87-069397555184.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170228771-781e4174-c6c4-4c64-bc69-092428c4c6f3.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170228884-89d3d737-68d6-42a6-b735-fbbf48a924f1.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170228941-83ead501-2c92-4c22-a99d-080da53a6856.png)
+
+![image](https://user-images.githubusercontent.com/104628789/170229003-9c3286c9-38e2-40d1-86c0-41b3d435c5b9.png)
 
 
 

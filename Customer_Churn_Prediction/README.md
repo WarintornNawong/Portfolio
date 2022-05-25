@@ -96,6 +96,33 @@ the most of churn customer always have less tenure period on almost every attrib
 ### Second Observation
 Fiber Optic in Internet Service, Phone Service, Tech Support, Electronics Check in Payment Method and Month-to-month contract tyoe contribute the significant churn probability than the rest of attribute.
 
+## Model Construction
+In this kind of data, churn prediction is a classification problem so I decided to select a classification algorithm through "Augluon algorithm" to find the group of high performing model to proceed fine-tuning. the selected algorithm for "Telco Churn Prediction" is specified below,
+
+1. RandomForestClassifier (rf)
+2. GradientBosstingClassifier (gb)
+3. AdaBoosting (ada)
+4. XGBoosting (xg)
+5. LightBoosting (lgb)
+6. CatBoosting (cbc)
+
+![image](https://user-images.githubusercontent.com/104628789/170283915-c14703ee-f095-4160-8a75-af8d9853ab16.png)
+
+The result show that the highest ROC-AUC score is "CatBoostClassifier" with 0.8329 score
+
+## Feature Improtance
+the key feature importance for each algorithm use to predict customer churn probability.
+![image](https://user-images.githubusercontent.com/104628789/170284428-8617af96-0e32-41b9-8595-6d8b4860bb8a.png)
+![image](https://user-images.githubusercontent.com/104628789/170284453-25a9bfdd-c355-49e2-808c-5804f5981e19.png)
+![image](https://user-images.githubusercontent.com/104628789/170284480-030099d2-42f6-4534-b96f-7d2f584a7773.png)
+
+### Combined Feature Importance
+
+![image](https://user-images.githubusercontent.com/104628789/170284627-4c0c9f15-3295-497d-90a1-fcbabed63797.png)
+
+the top 3 key feature importanfe after combination of all algorithm are "Contract type, tenure and payment method"
+
+
 
 
 

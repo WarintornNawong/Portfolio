@@ -85,4 +85,5 @@ and then, I would like to gradually increase a model complexity in the sixth att
 ![image](https://user-images.githubusercontent.com/104628789/170482811-ad956c7e-8171-4a8e-bba3-31eacea24432.png)
 
 
-
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Command%20Audio%20Classification/Final%20Command%20Recognition.ipynb)

@@ -12,3 +12,6 @@ For image classification task, I applied fortransfer learning from pre-trained D
 
 #### Results 
 ![image](https://user-images.githubusercontent.com/104628789/170414190-2caf8969-a3a2-4cd4-9d9a-e632d193c1ae.png)
+
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/Weather%20Forecast%20with%20Deep%20learning%20algorithm.ipynb)

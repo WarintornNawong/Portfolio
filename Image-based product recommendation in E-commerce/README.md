@@ -50,4 +50,3 @@ Given a measure of the distance between each pair of species, a simple approach 
 
 ## Notebook
 you can find it [here](https://github.com/WarintornNawong/Portfolio/blob/main/Image-based%20product%20recommendation%20in%20E-commerce/Product%20Recommendation.ipynb)
-

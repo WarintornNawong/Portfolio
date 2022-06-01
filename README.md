@@ -13,4 +13,5 @@
 - [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) :
 - [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification)
 
-
+## Reinforcement Learning
+- [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm)

@@ -15,3 +15,4 @@
 
 ## Reinforcement Learning
 - [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm)
+- [BackJack Card Strategy Formulation](https://github.com/WarintornNawong/Portfolio/tree/main/BlackJack%20Card%20Strategy%20Formulation)

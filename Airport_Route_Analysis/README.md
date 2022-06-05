@@ -144,6 +144,14 @@ Triadic closure is a concept in social network theory and it is the property amo
 
 ![image](https://user-images.githubusercontent.com/104628789/170229003-9c3286c9-38e2-40d1-86c0-41b3d435c5b9.png)
 
+#### Recommendation
+- Brussels South Charleroi  Belgium to London Stansted United Kingdom
+- Düsseldorf  Germany to Brussels  Belgium
+- Berlin-Tegel  Germany to London Gatwick  United Kingdom
+- Málaga  Spain Nice-Côte d'Azur  France
+- Frankfurt am Main  Germany London Gatwick  United Kingdom
+
+
 ## Notebook
 
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Airport_Route_Analysis/Airport%20Route%20Network%20Analysis.ipynb)

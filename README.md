@@ -2,7 +2,7 @@
  This repository are my portfolio in data science hands-on project 
  
 ## Machine Learning 
-- [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) :
+- [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) : Build a movie recommendation system with Hybrid Approach - to apply the algorithms in Surprise library (Simple Python RecommendatIon System Engine) such as SVD,SVD++,NMF etc. for predicting user preferences score in movie rating combine with content-based recommendation from Top 5000 movies in the movie database (TMDB).   
 - [Company Bankruptcy Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Bankruptcy%20Prediction) :
 - [Customer Churn Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Customer_Churn_Prediction) :
 - [New Airport Route Recommendation](https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) :

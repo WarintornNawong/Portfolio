@@ -8,7 +8,7 @@
 - [New Flight Route Recommendation](https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) : Built an airport route recommendation with "Open Triangles" in Social network analysis from  
 
 ## Deep learning
-- [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) :
+- [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) : Predict whether weather classification is 
 - [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) :
 - [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) :
 - [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification)

@@ -2,9 +2,9 @@
  This repository are my portfolio in data science hands-on project 
  
 ## Machine Learning 
-- [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) : Build a movie recommendation system with Hybrid Approach - to apply the algorithms in Surprise library (Simple Python RecommendatIon System Engine) such as SVD,SVD++,NMF etc. for predicting user preferences score in movie rating combine with content-based recommendation from Top 5000 movies in the movie database (TMDB).   
-- [Company Bankruptcy Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Bankruptcy%20Prediction) :
-- [Customer Churn Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Customer_Churn_Prediction) :
+- [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) : Built a movie recommendation system with Hybrid Approach  by combining collaborative-filtering algorithms in Surprise library (Simple Python RecommendatIon System Engine) such as SVD,SVD++,NMF etc. for predicting user preferences score in movie rating combining with content-based recommendation from Top 5000 movies in the movie database (TMDB).   
+- [Company Bankruptcy Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Bankruptcy%20Prediction) : Predicted a potential bankruptcy company from previous financial ratios such as ROA ,Operating Profit Rate etc. of the Taiwan Economic Journal during 1999–2009, and find the most relevant financial information for indicating company surviability from ensemble-based algorithm such as Random Forest, Gradient Boosting etc.    
+- [Customer Churn Prediction](https://github.com/WarintornNawong/Portfolio/tree/main/Customer_Churn_Prediction) : Perdicted a potential churn customer from a given customer demographics, and customer service information of telco company that provided home phone and Internet services to 7043 customers in California in Q3.
 - [New Airport Route Recommendation](https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) :
 
 ## Deep learning

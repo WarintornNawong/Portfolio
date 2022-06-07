@@ -66,12 +66,12 @@ With the results of RFE, They come out 30 key attribute which signify the bankru
 
 ### Observation 
 These parameter showed obviously the different between bankrupt firm and non-bankrupt firm for example the company that went bankrupt would have high debt, liability  and low cash or liquidity which might lead to low income. We can conclude the pattern of financial ratio in bankruptcy firm with the following details,
-- Solvency Ratio
+- **Solvency Ratio**
   -  High Interest-bearing Debt/Equity.  
   -  Low Interest Expense Ratio. 
   -  High Debt Ratio.
   -  Total Liability/Equity Ratio.
-- Profitability Ratio
+- **Profitability Ratio**
   -  Low ROA (Return of Asset).
   -  High Asset Return Growth Rate Ratio.
   -  Low Net Value Growth Rate.
@@ -80,14 +80,14 @@ These parameter showed obviously the different between bankrupt firm and non-ban
   -  Low Net Non-operating Income Ratio.
   -  Low income/total expense.
   -  Low net income/stockholder's equity. 
-- Liquidity Ratio
+- **Liquidity Ratio**
   -  Low Quick Ratio 
   -  Low Cash/Total Assets.
   -  Low Cash/Current Liability.
   -  Low Working Capital/Equity.
   -  Low Equity/Liability.
   -  Low Working Capital/ Total Assets.
- - Activity Ratio
+ - **Activity Ratio**
   -  Low Account Receivable Turnover.
   -  Low Average Collection Days.
 
@@ -102,6 +102,8 @@ I have selected the classification model from sklearn library to construct the m
 
 ## Conclusion
 ![image](https://user-images.githubusercontent.com/104628789/170244902-90f6a544-476e-4940-b542-1b10c7e1219f.png)
+1. At pre-SMOTE data, the accuracy is high for all methodology (Random Forest, Gradient Boosting and Ada Gradient Boosting) but f1-score in "backruptcy class" is obviously low due to high imbalance class. 
+2. **Random Forest with SMOTE transformation** produce the highest f1-score in "bankruptcy class" with 0.45 but **Gradient Boosting with SMOTE transformation and hyperparameter tuning** delivered highest f1-score among the rest of model with 0.79 f1-score and provide the best accuracy at 0.99. 
 
 ## Notebook
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Bankruptcy%20Prediction/Company%20bankruptcy%20Prediction.ipynb)

@@ -17,12 +17,15 @@ This step is to extract the data from list-form dataframe for content-based reco
 
 ## 
 
-### Which director has produced in the most movies ? and in the most movies's genres ?
+### Which director has produced in the most movies ? and Which is the most genres of each director? 
 
 ![image](https://user-images.githubusercontent.com/104628789/170187177-01ebe607-8ebd-4ea4-9a71-7478aa66f71e.png) 
 
 
-Steven Spielberg ranked the top for the most producing filme director with many films such as Jurassic Park, Indiana Jones etc. and Woody Allen ranked second MANHATTAN, MIDNIGHT IN PARIS etc. and he is also produce the same genres movie in "Comedy" for more than 17 movies. As Drama film king, Martin scorsese ranked in thirdth highest film producing and higest drama producing director for 5000 TMDB Database
+In terms of number of movie perspective, Steven Spielberg ranked the top for the most producing filme director with many films such as Jurassic Park, Indiana Jones etc. and Woody Allen ranked second with notable films such as MANHATTAN, MIDNIGHT IN PARIS etc. and the following director is 
+Martin Scorsese who have directed the film such as Wolf of wall street, The Irishman and Shutter Island. 
+
+In terms of movie genres of each director, and he is also produce the same genres movie in "Comedy" for more than 17 movies. As Drama film king, Martin scorsese ranked in thirdth highest film producing and higest drama producing director for 5000 TMDB Database
 
 ### Which is the most used keywords in the movies and director plot ?
 
@@ -43,7 +46,7 @@ The result showed the most starred movie is "Robert De", "Matt Damon" and "Bruce
 The Drama movie is also popular with same reason as relationship becuase it is contemporary in every era.  
 
 ## Content-based Recommendation
-To recommend based on the content similarity, the data would be required to convert into matrix and provide the information of the data thourgh "term frequency–inverse document frequency(tf-idf)" approach and select the cosine similarity appilication to be a score for each film aspect. I named the score as Similarity score and calculate based on the following methodology. The coefficient of each parameter was derived from fine-tuning of the results of content recommendation which I found out that *Keyword* play the major role to deliver the highest efficiency in "Movie Recommendation".
+To recommend based on the content similarity, the data would be required to convert into matrix and provide the information of the data thourgh "term frequency–inverse document frequency (tf-idf)" approach and select the cosine similarity appilication to be a score for each film aspect. I named the score as Similarity score and calculate based on the following methodology. The coefficient of each parameter was derived from fine-tuning of the results of content recommendation which I found out that *Keyword* play the major role to deliver the highest efficiency in "Movie Recommendation".
 
 **Similarity Score** = 0.4 * keyword + 0.3 * lead + 0.2 * director + 0.1 * genres
 

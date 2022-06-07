@@ -22,10 +22,10 @@ This step is to extract the data from list-form dataframe for content-based reco
 ![image](https://user-images.githubusercontent.com/104628789/170187177-01ebe607-8ebd-4ea4-9a71-7478aa66f71e.png) 
 
 
-In terms of number of movie perspective, Steven Spielberg ranked the top for the most producing filme director with 27 films such as Jurassic Park, Indiana Jones etc. and Woody Allen ranked second with 21 films such as MANHATTAN, MIDNIGHT IN PARIS etc. and the following director is 
-Martin Scorsese who have directed the film such as Wolf of wall street, The Irishman and Shutter Island. 
+In terms of number of movie perspective, Steven Spielberg ranked the top for the most producing filme director with 27 films such as **Jurassic Park**, **Indiana Jones** etc. and Woody Allen ranked second with 21 films such as **MANHATTAN**, **MIDNIGHT IN PARIS** etc. and the following director is 
+Martin Scorsese who have directed the film such as **Wolf of wall street**, **The Irishman** and **Shutter Island**. 
 
-In terms of movie genres of each director, Woody Allen has produced 17 comedy movies such as . As Drama film king, Martin scorsese ranked in thirdth highest film producing and highest drama producing director for 5000 TMDB Database
+In terms of movie genres of each director, Woody Allen has produced 18 comedy movies such as **MIDNIGHT IN PARIS**, **Majic in Moonlight** and **A Rainy Day in New York**. As Drama king, Martin scorsese ranked in thirdth highest film producing and highest drama producing director with 17 movies such as **The Departed**, **Silence** and **The Aviator**
 
 ### Which is the most used keywords in the movies and director plot ?
 

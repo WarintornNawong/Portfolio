@@ -8,12 +8,12 @@
 - [New Flight Route Recommendation](https://github.com/WarintornNawong/Portfolio/tree/main/Airport_Route_Analysis) : Built an airport route recommendation with "Open Triangles" in Social network analysis from  
 
 ## Deep learning
-- [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) : Predict whether weather classification is 
-- [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) :
-- [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) :
-- [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification)
+- [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) : Predict Weather from weather dataset by applying pre-trained model (RESNET50).
+- [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) : Produced digital art from four major City in Chonburi ( Chonburi , Bangseun , Sriracha and  Pattaya City) from Pre-trained Arbitrary Image Stylization model.
+- [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) : Recommended the e-commerce product with similarities-based picture with pre-trained model (ResNet50).
+- [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification) : Build the command audio classification i.e. Up, Down, Left, Right etc. with Neural Network.
 
 ## Reinforcement Learning
-- [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm)
-- [BackJack Card Strategy Formulation](https://github.com/WarintornNawong/Portfolio/tree/main/BlackJack%20Card%20Strategy%20Formulation)
+- [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm) : To build stock trading with stable-baseline3 library's algorithm - A2C,DQN,PPO.
+- [BackJack Card Strategy Formulation](https://github.com/WarintornNawong/Portfolio/tree/main/BlackJack%20Card%20Strategy%20Formulation) : Formulate the strategy for "BlackJack Card Games" with RL algorithm (Q-Learning, SARSA, Expected-SARSA, Monte Carlo Exploring Start, Monte Carlo Control).
 - [Beat Pendulum gameplay with RL algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Beat%20Pendulum%20gameplay%20with%20RL%20algorithm)

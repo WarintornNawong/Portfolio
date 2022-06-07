@@ -39,7 +39,9 @@ In terms of most frequent keyword of any director, the most frequent keyword of 
 
 ![image](https://user-images.githubusercontent.com/104628789/170187407-6b92b695-0f68-4e50-a9e0-5525e1c0702e.png)
 
-The result showed the most starred movie is "Robert De", "Matt Damon" and "Bruce Willis"
+"Robert De" or "Robert De Niro" in 78 years old was shot more than 40 movies in **"Irish Men"**, **The Intern** and **The God Father**, following by "Matt Damon" and "Bruce Willis" with 33 movies.
+
+With higest partnership between director and actor/actress by number of movies, the result showed that Denis Dugan and Adam Sandler work together for 7 movies in **"Grown Ups"**,**"Grown Ups 2"** and **You Don't Mess with the Zohan**.
 
 ## Which is the most popular genres in the movies and the most actor's movie genres ?
 

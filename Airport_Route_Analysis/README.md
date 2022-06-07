@@ -1,13 +1,20 @@
-# Airport Route Network Analysis and New Route Recommendation
+# Airport Route Network Analysis and New Flight Route Recommendation
 ## Introduction
 If you are the airline businessman, you have to know how complexity of airport route network, and the influence of airport location in order to plan or launch the new commercial route to boost competitiveness in airline industry. The main solution is to apply social network analysis to visualize the holistic viewpoint in "Aerial or Satellite View" and measure the centrality indicator to formulate the airline hub strategy alonside with further available data such as number of passenger, geopolitics and sizing of airplane etc. Therefore, i would like to make a tools to measure preliminary recommendation with the "Open Triangle" algorithm to airline business owner. 
 ### DATASET
 - Airport Database from Openflight [here](https://www.kaggle.com/datasets/divyanshrai/openflights-airports-database-2017)
 - Route Network Database from Openflight [here](https://www.kaggle.com/datasets/divyanshrai/openflights-route-database-2014)
 ## Algorithm
-Triadic closure is a concept in social network theory and it is the property among three nodes A, B, and C (representing people, for instance), such that if a *strong tie* exists between A-B and A-C, there is a weak or strong tie between B-C. This property is too extreme to hold true across very large, complex networks, but it is a useful simplification of reality that can be used to understand and predict networks.
+- **Triadic closure** is a concept in social network theory and it is the property among three nodes A, B, and C (representing people, for instance), such that if a *strong tie* exists between A-B and A-C, there is a weak or strong tie between B-C. This property is too extreme to hold true across very large, complex networks, but it is a useful simplification of reality that can be used to understand and predict networks.
 
 ![image](https://user-images.githubusercontent.com/104628789/170211824-cb81ebb9-32dc-4005-99c9-a0171dd11b41.png)
+
+- **In degree** :  the number of connections that point inward at a vertex.
+- **Out Degree** : the number of connections that originate at a vertex and point outward to other vertices.
+- **Degree Centrality** : the number of links incident upon a node.
+- **Betweeness Centrality** : a way of detecting the amount of influence a node has over the flow of information in a graph.
+- **Closeness Centrality** : a measure of the average shortest distance from each vertex to each other vertex.
+- **PageRank Centrality** : a way of ranking content, using links between them as a measure of importance.
 
 ## I. SOUTH EAST ASIA
 

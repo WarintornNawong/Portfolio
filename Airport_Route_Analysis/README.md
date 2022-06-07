@@ -53,7 +53,7 @@ If you are the airline businessman, you have to know how complexity of airport r
 - Ninoy aquino
 - kuala lumpur
 - Soekarno hatta 
-### What are the top 5 most centrality of South East Asia with shprtest path to another airport?
+### What are the top 5 most centrality of South East Asia with shortest path to another airport?
 - Suvarnabhumi
 - Singapore Changi
 - kuala lumpur
@@ -80,6 +80,36 @@ If you are the airline businessman, you have to know how complexity of airport r
 
 ![image](https://user-images.githubusercontent.com/104628789/170223762-54e89364-bc35-4d51-844b-6b2698761dd7.png)
 
+### What are the top  5 airports with most incoming flights in Asia Pacific? 
+- Beijing Capitol
+- Shanghai Pudong
+- Guangzhou Baiyun
+- Incheon
+- Singapore Changi
+### What are the top 5 airports with most outgoing flights in Asia Pacific? 
+- Beijing Capitol
+- Shanghai Pudong
+- Guangzhou Baiyun
+- Incheon
+- Singapore Changi
+### What are the top 5 most connected airport in Asia Pacific? 
+- Beijing Capitol
+- Shanghai Pudong
+- Guangzhou Baiyun
+- Incheon
+- Singapore Changi
+### What are the top 5 most transited airport in Asia Pacific? 
+- Singapore Changi
+- Narita
+- Sydney Kingsford Smith
+- Singapore Changi
+- Brisbane 
+### What are the top 5 most centrality of Asia Pacific with shortest path to another airport?
+- Beijing Capitol
+- Narita
+- Incheon
+- Shanghai Pudong
+- Suvarnabhumi
 
 #### Recommendation
 
@@ -101,6 +131,37 @@ If you are the airline businessman, you have to know how complexity of airport r
 
 ![image](https://user-images.githubusercontent.com/104628789/170224111-52b3de5e-319f-494f-9f40-6d03f5ffb478.png)
 
+### What are the top  5 airports with most incoming flights in Middle East & South Asia? 
+- Dubai
+- Hamad
+- India Gandhi
+- Abu dhabi
+- Chhatrapati Shivaji
+### What are the top 5 airports with most outgoing flights in Middle East & South Asia? 
+- Dubai
+- Hamad
+- India Gandhi
+- Abu dhabi
+- Chhatrapati Shivaji
+### What are the top 5 most connected airport in Middle East & South Asia? 
+- Dubai
+- Hamad
+- India Gandhi
+- Abu dhabi
+- Chhatrapati Shivaji
+### What are the top 5 most transited airport in Middle East & South Asia? 
+- Dubai
+- Hamad
+- India Gandhi
+- Chhatrapati Shivaji
+- Abu dhabi
+### What are the top 5 most centrality of Middle East & South Asia with shortest path to another airport?
+- Dubai
+- Hamad
+- Abu dhabi
+- India Gandhi
+- Chhatrapati Shivaji
+
 
 #### Recommendation
 
@@ -121,6 +182,38 @@ If you are the airline businessman, you have to know how complexity of airport r
 ![image](https://user-images.githubusercontent.com/104628789/170225984-fbc1605c-38bf-4ec7-aa19-250a23cc2df2.png)
 
 ![image](https://user-images.githubusercontent.com/104628789/170226183-7a0b4fa3-8da6-441f-bf50-e32f55d87351.png)
+
+### What are the top  5 airports with most incoming flights in Europe? 
+- frankfurt am main
+- charles de gaulle
+- Amsterdam Schiphol
+- Munich
+- Domodedovo
+### What are the top 5 airports with most outgoing flights in Europea? 
+- frankfurt am main
+- charles de gaulle
+- Amsterdam Schiphol
+- Munich
+- Domodedovo
+
+### What are the top 5 most connected airport in Europe? 
+- frankfurt am main
+- charles de gaulle
+- Amsterdam Schiphol
+- Munich
+- Domodedovo
+### What are the top 5 most transited airport in Europe? 
+- charles de gaulle
+- frankfurt am main
+- Amsterdam Schiphol
+- London Heathrow
+- Domodedovo
+### What are the top 5 most centrality of Europe with shortest path to another airport?
+- frankfurt am main
+- charles de gaulle
+- London Heathrow
+- Amsterdam Schiphol
+- Munich
 
 #### Recommendation
 

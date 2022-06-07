@@ -98,7 +98,11 @@ the most of churn customer always have less tenure period on almost every attrib
 ![image](https://user-images.githubusercontent.com/104628789/170280834-6da06f23-d6d1-439b-a70b-7cb31414ab0d.png)
 
 ### Second Observation
-Fiber Optic in Internet Service, Phone Service, Tech Support, Electronics Check in Payment Method and Month-to-month contract tyoe contribute the significant churn probability than the rest of attribute.
+ The significant contribution of churn probability would be summarized for **high likelyhood of churn** in the following details,
+- Non-service subsciption would likely to churn more i.e. Online Security, Multiples line, Online Backup, Device Protection, TechSupport etc. **except** phone service customer would like to churn more.
+- Fiber Optic Internet service.
+- Month-to-month contract type.
+- Electronic Check
 
 ## Model Construction
 In this kind of data, churn prediction is a classification problem so I decided to select a classification algorithm through "Augluon algorithm" to find the group of high performing model to proceed fine-tuning. the selected algorithm for "Telco Churn Prediction" is specified below,

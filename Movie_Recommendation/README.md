@@ -31,8 +31,10 @@ In terms of movie genres of each director, Woody Allen has produced 18 comedy mo
 
 ![image](https://user-images.githubusercontent.com/104628789/170187276-0d7a96df-132c-4eeb-92a7-f32ea464a080.png)
 
-The relationship is the most frequent keyword in movie plot due to it could become popular in every view group and it is also contemporary in every era. John Glen who is the director of James Bond  unsurprising use the secret keyword in his movie.
+With the most frequent keyword, The relationship is used in the plot for up to 500 movies becuase it is intrinsically parts of human beings, our natural life, and it is recognizable for  every people in every area, religion or nationality so this relationship plot would be chosen to infiltrate in any movies especially in romantic or drama movies. The "based" word is traceable from "based on True Story", "Based on novel plot" or any reference, inspiration of any origin plot. In the following one, the film keyword is general keyword for any film plots that would be intentionally or unintentionally inserted in the plot.
 
+In terms of most frequent keyword of any director, the most frequent keyword of movies John Glen produced for 12 movies is "Secret" because he is the director of **"James Bond Series"** which defenitely involve secret in mission or any device. Steven Spielberg also produced the 11 movies in "war theme" such as **Saving private ryan**, **Empire of the Sun** and **Lincoln (2012)** with American Civil War.
+ 
 ## Which actor has starred in the most movies ? 
 
 ![image](https://user-images.githubusercontent.com/104628789/170187407-6b92b695-0f68-4e50-a9e0-5525e1c0702e.png)

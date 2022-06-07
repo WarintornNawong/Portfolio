@@ -98,7 +98,7 @@ the most of churn customer always have less tenure period on almost every attrib
 ![image](https://user-images.githubusercontent.com/104628789/170280834-6da06f23-d6d1-439b-a70b-7cb31414ab0d.png)
 
 ### Second Observation
- The significant contribution of churn probability would be summarized for **high likelyhood of churn** in the following details,
+ The significant contribution of churn probability would be summarized for **High likelyhood of churn** in the following details,
 - Non-service subsciption would likely to churn more i.e. Online Security, Multiples line, Online Backup, Device Protection, TechSupport etc. **except** phone service customer would like to churn more.
 - Fiber Optic Internet service.
 - Month-to-month contract type.

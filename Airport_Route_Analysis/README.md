@@ -9,11 +9,11 @@ If you are the airline businessman, you have to know how complexity of airport r
 
 ![image](https://user-images.githubusercontent.com/104628789/170211824-cb81ebb9-32dc-4005-99c9-a0171dd11b41.png)
 
-- **In degree** :  the number of connections that point inward at a vertex.
-- **Out Degree** : the number of connections that originate at a vertex and point outward to other vertices.
-- **Degree Centrality** : the number of links incident upon a node.
-- **Betweeness Centrality** : a way of detecting the amount of influence a node has over the flow of information in a graph.
-- **Closeness Centrality** : a measure of the average shortest distance from each vertex to each other vertex.
+- **In degree** :  the number of connections that point inward at a vertex. This indicator is used to measure *"the most incomiing flight airport"*.
+- **Out Degree** : the number of connections that originate at a vertex and point outward to other vertices. This indicator is used to measure *"the most outgoing flight airport"*.
+- **Degree Centrality** : the number of links incident upon a node. This indicator is used to measure *"the most connected airport"*.
+- **Betweeness Centrality** : a way of detecting the amount of influence a node has over the flow of information in a graph. This indicator is used to measure *"the most transited airport"*.
+- **Closeness Centrality** : a measure of the average shortest distance from each vertex to each other vertex. This indicator is used to measure *"the airport centrality with shortest path to another airport"*.
 - **PageRank Centrality** : a way of ranking content, using links between them as a measure of importance.
 
 ## I. SOUTH EAST ASIA
@@ -28,6 +28,37 @@ If you are the airline businessman, you have to know how complexity of airport r
 ![image](https://user-images.githubusercontent.com/104628789/170212819-5b4ba37e-559f-4729-afd3-fcdd57f497e4.png)
 
 ![image](https://user-images.githubusercontent.com/104628789/170212875-df2a0d76-8a7e-4a1f-be01-f5501228838d.png)
+
+### What are the top  5 airports with most incoming flights in South East Asia? 
+- Singapore Changi
+- Suvarnabhumi
+- kuala lumpur
+- Ninoy aquino
+- Soekarno hatta 
+### What are the top 5 airports with most outgoing flights in South East Asia? 
+- Singapore Changi
+- Suvarnabhumi
+- kuala lumpur
+- Ninoy aquino
+- Soekarno hatta 
+### What are the top 5 most connected airport in South East Asia? 
+- Singapore Changi
+- Suvarnabhumi
+- kuala lumpur
+- Ninoy aquino
+- Soekarno hatta 
+### What are the top 5 most transited airport in South East Asia? 
+- Singapore Changi
+- Suvarnabhumi
+- Ninoy aquino
+- kuala lumpur
+- Soekarno hatta 
+### What are the top 5 most centrality of South East Asia with shprtest path to another airport?
+- Suvarnabhumi
+- Singapore Changi
+- kuala lumpur
+- Ninoy aquino
+- Soekarno hatta 
 
 #### Recommendation
 

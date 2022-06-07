@@ -116,7 +116,7 @@ In this kind of data, churn prediction is a classification problem so I decided 
 
 ![image](https://user-images.githubusercontent.com/104628789/170283915-c14703ee-f095-4160-8a75-af8d9853ab16.png)
 
-The result show that the highest ROC-AUC score is "CatBoostClassifier" with 0.8329 score
+The result show that the highest ROC-AUC score is "CatBoostClassifier" with 83.5 %, followed by LightBoosting with 83.4 % and XGBoost 83.27 %.
 
 ## Feature Improtance
 the key feature importance for each algorithm use to predict customer churn probability.
@@ -128,7 +128,8 @@ the key feature importance for each algorithm use to predict customer churn prob
 
 ![image](https://user-images.githubusercontent.com/104628789/170284627-4c0c9f15-3295-497d-90a1-fcbabed63797.png)
 
-the top 3 key feature importanfe after combination of all algorithm are "Contract type, tenure and payment method"
+The top 5 key feature importanfe after combination of all algorithm are "Contract type, tenure, payment method, Monthly Charge abd Internet Services". These feature importance provide a similar degree of consistency to **"First Observation"** and **"Second Observation"** in "Exploratory Data Analysis parts. 
+#\
 
 ## Notebook
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Customer_Churn_Prediction/Telco%20Customer%20Churn%20Prediction.ipynb)

@@ -73,7 +73,11 @@ The Telco customer churn data contains information about a fictional telco compa
 ![image](https://user-images.githubusercontent.com/104628789/170278860-369ba101-8ef7-4d90-aeb1-3faf62006a55.png)
 
 ### First Observation
-the most of churn customer always have less tenure period on almost every attribute such as Contract Type, Streaming or online Security Services etc. one of attribute that have less different in monthly charge and tenure is gerder. so it can be concluded that likelihood of churn is not relevant to gender. Moreover, they indicates that Contract type have higher charge for churn customer than non-churn.
+the most of churn customer always have less tenure period on almost every attribute such as Contract Type, Streaming or online Security Services etc. one of attribute that have less different in monthly charge and tenure is gerder. so it can be concluded that likelihood of churn is not relevant to gender. Moreover, they indicates that Contract type have higher charge for churn customer than non-churn. Therefore, I would like to summarize the significant attribute for Churn Customer in following details,
+- High Monthly Charge in Junior Citizen (<65 years old)
+- High Monthly Charge in Phone Services.
+- High Monthly Charge for non-online security, online backup, device protection, Tech Support, Streaming TV, Streaming Movies. #these can be summarized that non-service customer with hig paid cost would likely to churn in telecom service.
+- One Year or Two year contact customer that pay higher would likely to churn more. 
 
 ## #### Probability of Churn and Retention per attribute
 ![image](https://user-images.githubusercontent.com/104628789/170279890-f7dadc57-5d8b-4a0d-9b8a-0d4b95bb1ac7.png)

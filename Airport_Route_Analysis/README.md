@@ -235,6 +235,39 @@ If you are the airline businessman, you have to know how complexity of airport r
 
 ![image](https://user-images.githubusercontent.com/104628789/170227023-3e415b0d-588d-4bb0-82ac-2856fc5c6a83.png)
 
+### What are the top  5 airports with most incoming flights in North America? 
+- Hartsfield-Jackson
+- Chicago O'Hare
+- Dallas Fort Worth
+- Bush houston
+- Denver
+### What are the top 5 airports with most outgoing flights in North America? 
+- Hartsfield-Jackson
+- Chicago O'Hare
+- Dallas Fort Worth
+- Bush houston
+- Denver
+
+### What are the top 5 most connected airport in North America? 
+- Hartsfield-Jackson
+- Chicago O'Hare
+- Dallas Fort Worth
+- Denver
+- Bush houston
+
+### What are the top 5 most transited airport in North America? 
+- Ted Stevens Anchorage
+- Los Angeles
+- Chichago O'hare
+- Seattle tacoma
+- Lester B. Pearson
+### What are the top 5 most centrality of North America with shortest path to another airport?
+- Los angeles
+- John F. Kennedy
+- Lester B. Pearson
+- Chichago O'hare
+- Newark liberty
+
 #### Recommendation
 
 - Cancún   Mexico to McCarran   United States
@@ -255,6 +288,43 @@ If you are the airline businessman, you have to know how complexity of airport r
 
 ![image](https://user-images.githubusercontent.com/104628789/170227925-401b798b-08e8-41e9-94b1-9b417b7d6115.png)
 
+### What are the top  5 airports with most incoming flights in South America? 
+- André franco montoro
+- el dorado
+- jorge chavez
+- Viracopos
+- Tom jobim
+
+### What are the top 5 airports with most outgoing flights in South America? 
+- André franco montoro
+- el dorado
+- jorge chavez
+- Viracopos
+- Tom jobim
+
+### What are the top 5 most connected airport in South America? 
+- André franco montoro
+- el dorado
+- jorge chavez
+- Viracopos
+- Tom jobim
+
+
+### What are the top 5 most transited airport in South America? 
+- André franco montoro
+- el dorado
+- Arturo Merino Benítez
+- jorge newbery
+- jorge chavez
+
+### What are the top 5 most centrality of South America with shortest path to another airport?
+- André franco montoro
+- Tom jobim
+- jorge chavez
+- Arturo Merino Benítez
+- el dorado
+
+
 #### Recommendation
 
 - Jorge Newbery Airpark Argentina to Jorge Chávez  Peru
@@ -274,6 +344,41 @@ If you are the airline businessman, you have to know how complexity of airport r
 ![image](https://user-images.githubusercontent.com/104628789/170228941-83ead501-2c92-4c22-a99d-080da53a6856.png)
 
 ![image](https://user-images.githubusercontent.com/104628789/170229003-9c3286c9-38e2-40d1-86c0-41b3d435c5b9.png)
+
+### What are the top  5 airports with most incoming flights in World? 
+- Frankfurt
+- charles de gaulle
+- amsterdam schiphol
+- istanbul
+- Hartsfield-jackson
+### What are the top 5 airports with most outgoing flights in World? 
+- Frankfurt
+- charles de gaulle
+- amsterdam schiphol
+- istanbul
+- Hartsfield-jackson
+
+### What are the top 5 most connected airport in World? 
+- Frankfurt
+- charles de gaulle
+- amsterdam schiphol
+- istanbul
+- Hartsfield-jackson
+
+
+### What are the top 5 most transited airport in World? 
+- Ted Stevens Anchorage
+- Los Angeles
+- charles de gaulle
+- Dubai
+- Frankfurt
+
+### What are the top 5 most centrality of World with shortest path to another airport?
+- Frankfurt
+- charles de gaulle
+- London Heathrow
+- Dubai
+- Amsterdam schiphol
 
 #### Recommendation
 - Brussels South Charleroi  Belgium to London Stansted United Kingdom

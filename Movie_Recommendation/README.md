@@ -80,6 +80,8 @@ This step is to merge between the similarity score for being a representative sc
 
 **Personalised Favourite Score** = Similarity Score * prediction Rating / 2.5
 
+
+## Results
 ### RECOMMENDATION NO.1
 
 10 recommended movie for UserID : 5 who have previously watched "Harry Potter and the Goblet of Fire"

@@ -1,5 +1,6 @@
 # Weather Classification
 ## Introduction
+Weather classification task is widely used in Satellite Imagery Analysis, for example, to adjust the land cover, or crop product utilization score based on current Weather condition or forecast the future weather on any area by using Computer Vision as one of the input to predict the weather. 
 ### Dataset
 Multi-class weather dataset(MWD) for image classification is a valuable dataset used in the research paper entitled “Multi-class weather recognition from still image using heterogeneous ensemble method”. The dataset provides a platform for outdoor weather analysis by extracting various features for recognizing different weather conditions. you can find dataset [here](https://data.mendeley.com/datasets/4drtyfjtfy/1)
 

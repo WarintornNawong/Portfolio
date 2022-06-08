@@ -97,6 +97,7 @@ With additional pool Layers, the accuracy of this results was 80.0 % which is no
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482565-de06d2e9-c51f-4f0d-bdeb-9da2c9d48f73.png)
+
 With additional L2 regularizer, it cause higher overfit with 77 % accuracy.
 
 ### FORTH  ATTEMPTs (Baseline + One CNN + Dropout)
@@ -112,6 +113,7 @@ With additional Dropout, it cause higher accuracy than baseline and also higher 
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482742-211e9035-2234-4ccd-b049-91dddd6123d4.png)
+
 With additional CNN layers and Dropout, it cause significantly higher accuracy than baseline and also higher than L2-Regularizer  with 86.9 %.
 
 ### SIXTH ATTEMPTS (Baeline + 4 CNN Layers + Dropout)
@@ -119,7 +121,9 @@ With additional CNN layers and Dropout, it cause significantly higher accuracy t
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482811-ad956c7e-8171-4a8e-bba3-31eacea24432.png)
-With the additional CNN layers up to 4 layers, it could not result higher than two layers accuracy so it cann be summed up that the best accuracy of this model is **"FIFTH ATTEMPTS (Baseline + Two CNN Layers + Dropout)"**
+
+With the additional CNN layers up to 4 layers, it could not result higher than two layers accuracy so it cann be summed up that the best accuracy of this model is 
+**"FIFTH ATTEMPTS (Baseline + Two CNN Layers + Dropout)"**
 
 
 ## Notebook

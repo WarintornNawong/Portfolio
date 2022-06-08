@@ -23,10 +23,15 @@ where $    heta$ is the pendulum’s angle normalized between [-pi, pi] (with 0 
 ## Results
 ### Pre-and post training by algorithm
 ![image](https://user-images.githubusercontent.com/104628789/171804265-58aab0d9-1a7a-4cac-852c-a98b8abf92ae.png)
+
+- **Observation**
+In pendulum problem, PPO and A2C is not a suitable for this problem because it is not different between pre and post train.
+
 ### all algorithm
 ![image](https://user-images.githubusercontent.com/104628789/171804367-2995ff6b-2406-4baa-839d-dda8b50a36c7.png)
 
 ![image](https://user-images.githubusercontent.com/104628789/171804138-294192d5-ecd6-4b90-a430-088254d8c32b.png)
+ it is unable to differentiate between "TD3, SAC and DDPG with post-training up to 1000 episode". Howevere, the winner of the pendulum problem is "DDPG".
 
 ## Notebook
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Beat%20Pendulum%20gameplay%20with%20RL%20algorithm/Pendulum.ipynb)

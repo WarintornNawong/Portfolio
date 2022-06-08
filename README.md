@@ -1,5 +1,5 @@
 # The Data Science Portfolio
- This repository are collection of my portfolio in data science hands-on project consist of "Machine Learning, Deep Learning and Reinforcement Learning Approach".
+ This repository are collection of my portfolio in data science hands-on project, consist of "Machine Learning, Deep Learning and Reinforcement Learning Approach".
  
 ## Machine Learning 
 - [Movie Recommendation Engine](https://github.com/WarintornNawong/Portfolio/tree/main/Movie_Recommendation) : Built a movie recommendation system with Hybrid Approach  by combining collaborative-filtering algorithms in Surprise library (Simple Python RecommendatIon System Engine) such as SVD,SVD++,NMF etc. for predicting user preferences score in movie rating combining with content-based recommendation from Top 5000 movies in the movie database (TMDB).   

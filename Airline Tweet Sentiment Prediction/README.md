@@ -33,7 +33,8 @@ Before developing model, I applied the step of cleaning & Preprocssing with the 
 10.Remove Whitespace
 11.Convert to lemmatized word
 
-## Model Construction
+## PART III. Model Construction
+
 I selected the classification model from ensemble-based algorithm and embedding deep learning with following model,
 1. RandomForest
 2. GradientBoosting
@@ -41,5 +42,16 @@ I selected the classification model from ensemble-based algorithm and embedding 
 4. XGBoost
 5. Long Short-Term Memory (LSTM)
 
+to test in four case
+- Baseline without Undersampling process.
+- Baseline with Undersampling process
+- Hyperparameter tuning without Undersampling process
+- Hyperparameter tuning with Undersampling process.
 
+## PART IV. Results
 
+the best model is "RandomForest in base model without hyperparameter tuning and undersampling process"
+![image](https://user-images.githubusercontent.com/104628789/172577851-b1bf73ab-284a-47fb-94cc-3cbc93ae4a20.png)
+
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Airline%20Tweet%20Sentiment%20Prediction/US%20Airline%20Tweet%20Sentiment%20Analysis.ipynb)

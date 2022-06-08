@@ -10,8 +10,8 @@
 ## Deep learning
 - [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) : Predicted Weather condition (Sunrise, Rain, Cloudy and Shrine) from Multi-class weather dataset by applying pre-trained model Deep Residual Network (ResNet50)
 - [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) : Produced digital art from four major Chonburi City's landmark or tourist attractive locaion  (Chonburi , Bangseun , Sriracha and  Pattaya City) by applying "Neural Style Transfer" from Pre-trained Arbitrary Image Stylization model at Tensorflow-Hub.
-- [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) : Recommended the  product images under Apparel and Footwear category with similarities-based picture with pre-trained model (ResNet50).
-- [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification) : Build the command audio classification i.e. Up, Down, Left, Right etc. with Neural Network.
+- [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) : Built a image-based similarity recommendation system of the product images under Apparel and Footwear category at e-commerce services with similarities-based picture with pre-trained model (ResNet50).
+- [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification) : Predict the Command by recognizing from audio sound dataset with the general command  i.e. Up, Down, Left, Right etc. with Deep Neural Network.
 
 ## Reinforcement Learning
 - [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm) : To build stock trading with stable-baseline3 library's algorithm - A2C,DQN,PPO.

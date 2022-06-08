@@ -75,7 +75,7 @@ I applied the CNN to classify and differentiate between thier command. Firstly, 
 ![image](https://user-images.githubusercontent.com/104628789/170482342-9e5ae900-72c5-4cb6-9ae7-ab92bb41afda.png)
 
 
-and then, I would like to gradually increase a model complexity in the sixth attempt below,
+With single set of CNN, the accuracy of this results was 71.25 %.Therefore, I would like to gradually increase a model complexity in the sixth attempt below,
 ### FIRST ATTEMPTs (Baseline + one CNN layers)
 
 - Results
@@ -83,16 +83,21 @@ and then, I would like to gradually increase a model complexity in the sixth att
 
 ![image](https://user-images.githubusercontent.com/104628789/170482392-e2905df7-4959-45d7-94b7-b9f9bad0736d.png)
 
+With additional CNN layers, the accuracy of this results was 82.25 % so it is suitable to increase additional CNN layers for improving the model accuracy.
+
 ### SECOND ATTEMPTS (Baseline + OneCNN/MaxPool Layers)
 - Results
 
 ![image](https://user-images.githubusercontent.com/104628789/170482500-8df009a4-2382-4f4d-9b20-ecbe5a6be516.png)
+
+With additional pool Layers, the accuracy of this results was 80.0 % which is not at higher than the previous attempts due to overfit problems.
 
 ### THIRD ATTEMPTS (Baseline + One Layers+L2)
 - Results
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482565-de06d2e9-c51f-4f0d-bdeb-9da2c9d48f73.png)
+With additional L2 regularizer, it cause higher overfit with 77 % accuracy.
 
 ### FORTH  ATTEMPTs (Baseline + One CNN + Dropout)
 - Results
@@ -100,17 +105,21 @@ and then, I would like to gradually increase a model complexity in the sixth att
 
 ![image](https://user-images.githubusercontent.com/104628789/170482640-45b7f6e3-ad94-4406-934b-1db1050cf1a8.png)
 
+With additional Dropout, it cause higher accuracy than baseline and also higher than L2-Regularizer  with 83.75 %.
+
 ### FIFTH ATTEMPTS (Baseline + Two CNN Layers + Dropout)
 - Results
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482742-211e9035-2234-4ccd-b049-91dddd6123d4.png)
+With additional CNN layers and Dropout, it cause significantly higher accuracy than baseline and also higher than L2-Regularizer  with 86.9 %.
 
 ### SIXTH ATTEMPTS (Baeline + 4 CNN Layers + Dropout)
 - Results
 
 
 ![image](https://user-images.githubusercontent.com/104628789/170482811-ad956c7e-8171-4a8e-bba3-31eacea24432.png)
+With the additional CNN layers up to 4 layers, it could not result higher than two layers accuracy so it cann be summed up that the best accuracy of this model is **"FIFTH ATTEMPTS (Baseline + Two CNN Layers + Dropout)"**
 
 
 ## Notebook

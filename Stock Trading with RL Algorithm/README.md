@@ -61,6 +61,9 @@ Test period : 01 April - 01 October 2020.
 ### Final Return of all algorithm
 ![image](https://user-images.githubusercontent.com/104628789/171370819-0a911fd0-78e6-42e5-aa76-fd9db4b3bfdb.png)
 
+### Conclusion
+the learned A2C algorithm could beat the best return among the algorithm in the trading during "April to October 2020" with 400 % return.  
+
 ## Notebook
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/Stock%20Trading%20with%20RL%20Algorithm/Stock%20Trading%20with%20RL%20Algorithm.ipynb)
 

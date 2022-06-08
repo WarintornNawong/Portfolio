@@ -46,6 +46,7 @@ To play the discrete problem in both action and observation space, the compatibl
 ## Results
 ![image](https://user-images.githubusercontent.com/104628789/171459502-ab53413c-730f-4cb3-a097-a79c37576f37.png)
 
+The best algorithm to beat BlackJack is "SARSA" with Win-Rate at 42 % and Draw Rate at up to 9 %.
 ## Notebook
 you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/BlackJack%20Card%20Strategy%20Formulation/Play%20Black-Jack%20card%20game%20with%20RL%20algorithm.ipynb)
 

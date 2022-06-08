@@ -12,8 +12,16 @@ I used the data from yahoo finance (yfinance offers a threaded and Pythonic way 
 - Key Technical Analysis
 ![image](https://user-images.githubusercontent.com/104628789/171368225-57c1690c-b3f4-45cb-b5f8-77e829634855.png)
 
+#### Key Definition
+1. **Simple Moving Average (SMA)** : arithmetic moving average calculated by adding recent prices and then dividing that figure by the number of time periods in the calculation average.
+2. **The relative strength index (RSI)** : a momentum indicator used in technical analysis that measures the magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.
+3. **On Balance Volume (OBV)** : measures buying and selling pressure as a cumulative indicator that adds volume on up days and subtracts volume on down days.
+
+
 - **Observation**
-GameStop Corp. started the year trading around $19.00 a share, a pretty robust share price for a company that had been trading below $5.00 as recently as August 2020. Yet, by the end of January, GameStop’s shares were trading at over $300, at one point hitting a high of $483. Experts—and a significant number of nonexperts—raced to explain what happened. The media, at least, settled on a David and Goliath narrative, pitting a band of individual traders against Wall Street hedge funds that were betting against GameStop’s success. The fact that many of these retail traders utilized a brokerage app named Robinhood only added to the narrative
+
+ - GameStop Corp. started the year trading around $19.00 a share as recently as August 2020. Yet, by the end of January, GameStop’s shares were trading at over $300, at one point hitting a high of $483. Experts raced to explain what happened - a band of individual traders against Wall Street hedge funds that were betting against GameStop’s success. The fact that many of these retail traders utilized a brokerage app named Robinhood only added to the narrative.
+ - RSI, OBV is relative to the price of GameStop Corp, especially in the final transaction of the end of year 2021.
 
 ## Part II : Environment Creation 
 To build the trading environment, I used the "gym-anytrading" library to apply RL algorithm to beat the Game Stop Corp trading.

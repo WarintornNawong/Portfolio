@@ -15,6 +15,6 @@
 - [Airline Tweet Sentiment Prediction](https://github.com/WarintornNawong/Portfolio/blob/main/Airline%20Tweet%20Sentiment%20Prediction/README.md) : Predicted tweet sentiment (Neutral, Positive and Negative) from U.S. Airline dataset at February 2015.
 
 ## Reinforcement Learning
-- [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm) : To build stock trading with stable-baseline3 library's algorithm - A2C,DQN,PPO.
-- [BackJack Card Strategy Formulation](https://github.com/WarintornNawong/Portfolio/tree/main/BlackJack%20Card%20Strategy%20Formulation) : Formulate the strategy for "BlackJack Card Games" with RL algorithm (Q-Learning, SARSA, Expected-SARSA, Monte Carlo Exploring Start, Monte Carlo Control).
-- [Beat Pendulum gameplay with RL algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Beat%20Pendulum%20gameplay%20with%20RL%20algorithm)
+- [Stock Trading with RL Algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Stock%20Trading%20with%20RL%20Algorithm) : Built stock trading with stable-baseline3 library's algorithm - A2C,DQN,PPO.
+- [BackJack Card Strategy Formulation](https://github.com/WarintornNawong/Portfolio/tree/main/BlackJack%20Card%20Strategy%20Formulation) : Formulated the strategy for "BlackJack Card Games" with RL algorithm (Q-Learning, SARSA, Expected-SARSA, Monte Carlo Exploring Start, Monte Carlo Control).
+- [Beat Pendulum gameplay with RL algorithm](https://github.com/WarintornNawong/Portfolio/tree/main/Beat%20Pendulum%20gameplay%20with%20RL%20algorithm) : Built the tools to beat the "Pendulum Gamesplay" from stables-baseline in both on-policy model (PPO, A2C) and off-policy model (DDPG,SAC, TD3).

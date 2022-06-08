@@ -9,7 +9,7 @@ Each image is identified by an unique ID(ProductId) like 10054.
 fashion.csv contains additional details about the products like title, description, category, gender etc. you can find it [here](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images)
 
 ## Model
-- **Depp Residual Neural Network-50 (ResNet50)**
+- **Deep Residual Neural Network-50 (ResNet50)**
 ResNet-50 is a convolutional neural network that is 50 layers deep. ResNet, short for Residual Networks is a classic neural network used as a backbone for many computer vision tasks. I applied a feature extraction from pre-trained model in Tensorflow to bring these as input for similarity test with pairwise distance.
 
 - **Pairwise Distances**

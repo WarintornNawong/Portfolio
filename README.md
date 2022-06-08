@@ -9,7 +9,7 @@
 
 ## Deep learning
 - [Weather Classification](https://github.com/WarintornNawong/Portfolio/blob/main/Weather%20Classification/README.md) : Predicted Weather condition (Sunrise, Rain, Cloudy and Shrine) from Multi-class weather dataset by applying pre-trained model Deep Residual Network (ResNet50)
-- [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) : Produced digital art from four major City in Chonburi ( Chonburi , Bangseun , Sriracha and  Pattaya City) from Pre-trained Arbitrary Image Stylization model.
+- [Digital Art Generation from Chonburi's Landmark](https://github.com/WarintornNawong/Portfolio/tree/main/Digital_Art_Museum) : Produced digital art from four major Chonburi City's landmark or tourist attractive locaion  (Chonburi , Bangseun , Sriracha and  Pattaya City) by applying "Neural Style Transfer" from Pre-trained Arbitrary Image Stylization model at Tensorflow-Hub.
 - [Image-based Product Recommendation in E-commerce](https://github.com/WarintornNawong/Portfolio/tree/main/Image-based%20product%20recommendation%20in%20E-commerce)) : Recommended the  product images under Apparel and Footwear category with similarities-based picture with pre-trained model (ResNet50).
 - [Command Audio Classification](https://github.com/WarintornNawong/Portfolio/tree/main/Command%20Audio%20Classification) : Build the command audio classification i.e. Up, Down, Left, Right etc. with Neural Network.
 

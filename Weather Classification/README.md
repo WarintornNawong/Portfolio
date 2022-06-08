@@ -6,11 +6,15 @@ Multi-class weather dataset(MWD) for image classification is a valuable dataset 
 #### Example of trained data
 ![image](https://user-images.githubusercontent.com/104628789/170413598-2706b518-11d0-4606-b3b8-808ddf43722b.png)
 ## Model Training
-For image classification task, I applied fortransfer learning from pre-trained Deep Residual Networks (ResNet50) to label on weather regconition. 
+For image classification task, I applied fortransfer learning from pre-trained Deep Residual Networks (ResNet50) to label on weather regconition in the following class,
+1.  Shine
+2.  Sunrise
+3.  Rain
+4.  Cloudy
 
 ![image](https://user-images.githubusercontent.com/104628789/170415821-ba8c23b0-1dd0-484e-b52d-0bc62333c87c.png)
 
-#### Results 
+#### Results of Prediction
 ![image](https://user-images.githubusercontent.com/104628789/170414190-2caf8969-a3a2-4cd4-9d9a-e632d193c1ae.png)
 
 ## Notebook

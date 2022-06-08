@@ -20,8 +20,8 @@ I used the data from yahoo finance (yfinance offers a threaded and Pythonic way 
 
 - **Observation**
 
- - GameStop Corp. started the year trading around $19.00 a share as recently as August 2020. Yet, by the end of January, GameStop’s shares were trading at over $300, at one point hitting a high of $483. Experts raced to explain what happened - a band of individual traders against Wall Street hedge funds that were betting against GameStop’s success. The fact that many of these retail traders utilized a brokerage app named Robinhood only added to the narrative.
- - RSI, OBV is relative to the price of GameStop Corp, especially in the final transaction of the end of year 2021.
+  - GameStop Corp. started the year trading around $19.00 a share as recently as August 2020. Yet, by the end of January, GameStop’s shares were trading at over $300, at one point hitting a high of $483. Experts raced to explain what happened - a band of individual traders against Wall Street hedge funds that were betting against GameStop’s success. The fact that many of these retail traders utilized a brokerage app named Robinhood only added to the narrative.
+  - RSI, OBV is relative to the price of GameStop Corp, especially in the final transaction of the end of year 2021.
 
 ## Part II : Environment Creation 
 To build the trading environment, I used the "gym-anytrading" library to apply RL algorithm to beat the Game Stop Corp trading.

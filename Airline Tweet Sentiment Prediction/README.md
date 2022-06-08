@@ -18,6 +18,11 @@ A sentiment analysis job about the problems of each major U.S. airline. Twitter 
 ![image](https://user-images.githubusercontent.com/104628789/172573054-cdb31200-c040-4f87-8ff7-4151ad2117bc.png)
 
 ### Observation
+United Airline ranked first in high negative sentiment tweet, followed by U.S. Airways and American Airline. The n-gram methods in second, thirdth and fourth consist of "Flight Cancel and delay ".The pattern of negative tweets is summarizable in the following details,
+1. Longer character
+2. Higher word count
+3. Higher Punctuation
+4. Higher stopwords
 
 ## Part II. Text Processing
 Before developing model, I applied the step of cleaning & Preprocssing with the following details,

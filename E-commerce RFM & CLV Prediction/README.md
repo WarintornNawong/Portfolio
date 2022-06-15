@@ -1,4 +1,4 @@
-# E-commerce Customer Clustering and Customer Lifetime Value Prediction
+# E-commerce Customer Segmentation and Customer Lifetime Value Prediction
 ## Introduction
 ### DATASET 
 - Data Set Information:

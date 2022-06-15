@@ -20,15 +20,20 @@ a transnational data set which contains all the transactions occurring between 0
 ![image](https://user-images.githubusercontent.com/104628789/173783431-283a1b05-7c20-4868-9383-4e2ee779b6f5.png)
 ![image](https://user-images.githubusercontent.com/104628789/173783513-a65e696b-f90d-493d-9db6-53347cd848c4.png)
 ![image](https://user-images.githubusercontent.com/104628789/173783542-208c0af5-d97a-4ada-bf26-ea477eea01f7.png)
+
+- **Observation** 
+1. The end of the year is the most purchaesed period for purchusing with the high festival such as Christmas, New Year etc. 
+2. 11 - 12 o'clock are the most purchased time during the day.
+3. Thursday is the most purchased day of week in online customer.
+
 ## PART II. Customer Clustering
 
-In order to segment customer, I start applying the criteria between frequency and monetary as F&M Criticality and then apply the result with recency to obtain a customer class/segment in order to provide the segment-based strategy.
+In order to segment customer, I start applying the criteria between frequency and monetary as F&M Criticality from converting "Invoice Data", "Customer ID" and "Revenue" to be " Standard Recency, Frequency and Monetary" and then apply the result with recency to obtain a customer class/segment in order to provide the segment-based strategy.
 
+### Criteria for Customer Segmentation
 ![image](https://user-images.githubusercontent.com/104628789/173783722-035b826f-0506-4f43-b934-13d55921ceb9.png)
 
-### Criteria
-
-#### Definition
+### Definition
 1. **Champions**: Bought recently, buy often and spend the most
 2. **Loyal customers**: Buy on a regular basis. Responsive to promotions.
 3. **Potential loyalist**: Recent customers with average frequency.
@@ -40,7 +45,7 @@ In order to segment customer, I start applying the criteria between frequency an
 9. **Can’t lose them**: Used to purchase frequently but haven’t returned for a long time.
 10. **Hibernating**: Last purchase was long back and low number of orders. May be lost.
 
-#### Actionable strategy
+### Actionable strategy
 
 1. **Champions**: Reward them. They can become evangelists and early adopters of new products.
 2. **Loyal customers**: Up-sell higher value products. Engage them. Ask for reviews.
@@ -53,9 +58,13 @@ In order to segment customer, I start applying the criteria between frequency an
 9. **Can’t lose them**: Win them back. Talk to them. Make them special offers. Make them feel valuable.
 10. **Hibernating**:Recreate brand value. Offer relevant products and good offers.
 
+### RFM Analysis for each segments.
 
 ![image](https://user-images.githubusercontent.com/104628789/173783905-0adac6db-cc60-4ed0-9a73-f235f21d7d3b.png)
 
+- **Observation**
+1. Can't loose customer is the one who frequently and constantly contribute high value in online purchasing.
+2. New Customer is who pay highest revenue among the rest of customer.
 
 ## PART III. Customer Purchase & Customer Lifetime Value Prediction
 I applied for three model to preict Customer purchase in next 30 days from "lifetims library" with following model,

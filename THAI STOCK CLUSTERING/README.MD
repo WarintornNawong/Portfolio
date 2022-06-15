@@ -90,4 +90,6 @@ these can be clustered into 6 cluster with the following characteristics and key
 - **"Lack of Cash Group"** : The cluster of stock with minus in "CFO" with still profit.
 - **"Losses Group"** : The cluster of stock with loss in NPM.
 
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/THAI%20STOCK%20CLUSTERING/Thai%20Stock%20Clustering%20.ipynb)
 

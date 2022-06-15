@@ -22,10 +22,40 @@ a transnational data set which contains all the transactions occurring between 0
 ![image](https://user-images.githubusercontent.com/104628789/173783542-208c0af5-d97a-4ada-bf26-ea477eea01f7.png)
 ## PART II. Customer Clustering
 
-- Criteria
+In order to segment customer, I start applying the criteria between frequency and monetary as F&M Criticality and then apply the result with recency to obtain a customer class/segment in order to provide the segment-based strategy.
 
 ![image](https://user-images.githubusercontent.com/104628789/173783722-035b826f-0506-4f43-b934-13d55921ceb9.png)
+
+### Criteria
+
+#### Definition
+1. **Champions**: Bought recently, buy often and spend the most
+2. **Loyal customers**: Buy on a regular basis. Responsive to promotions.
+3. **Potential loyalist**: Recent customers with average frequency.
+4. **Recent customers**: Bought most recently, but not often.
+5. **Promising**: Recent shoppers, but haven’t spent much.
+6. **Needs attention**: Above average recency, frequency and monetary values. May not have bought very recently though.
+7. **About to sleep**: Below average recency and frequency. Will lose them if not reactivated.
+8. **At risk**: Some time since they’ve purchased. Need to bring them back!
+9. **Can’t lose them**: Used to purchase frequently but haven’t returned for a long time.
+10. **Hibernating**: Last purchase was long back and low number of orders. May be lost.
+
+#### Actionable strategy
+
+1. **Champions**: Reward them. They can become evangelists and early adopters of new products.
+2. **Loyal customers**: Up-sell higher value products. Engage them. Ask for reviews.
+3. **Potential loyalist**: Recommend other products. Engage in loyalty programs.
+4. **Recent/new customers**: Provide a good onboarding process. Start building the relationship.
+5. **Promising**: Create more brand awareness. Provide free trials.
+6. **Needs attention**: Reactivate them. Provide limited time offers. Recommend new products based on purchase history.
+7. **About to sleep**: Reactivate them. Share valuable resources. Recommend popular products. Offer discounts.
+8. **At risk**: Send personalised email or other messages to reconnect. Provide good offers and share valuable resources.
+9. **Can’t lose them**: Win them back. Talk to them. Make them special offers. Make them feel valuable.
+10. **Hibernating**:Recreate brand value. Offer relevant products and good offers.
+
+
 ![image](https://user-images.githubusercontent.com/104628789/173783905-0adac6db-cc60-4ed0-9a73-f235f21d7d3b.png)
+
 
 ## PART III. Customer Purchase & Customer Lifetime Value Prediction
 I applied for three model to preict Customer purchase in next 30 days from "lifetims library" with following model,

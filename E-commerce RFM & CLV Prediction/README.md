@@ -64,7 +64,7 @@ In order to segment customer, I start applying the criteria between frequency an
 ![image](https://user-images.githubusercontent.com/104628789/173783905-0adac6db-cc60-4ed0-9a73-f235f21d7d3b.png)
 
 - **Observation**
-1. Can't loose customer is the one who frequently and constantly contribute high value in online purchasing.
+1. Can't loose, Champion and Loyal customer is the one who frequently and constantly contribute high value in online purchasing.
 2. New Customer is who pay highest revenue among the rest of customer.
 
 ## PART III. Customer Purchase & Customer Lifetime Value Prediction
@@ -74,8 +74,19 @@ I applied for three model to preict Customer purchase in next 30 days from "life
 3. Pareto Negative Binomial Distribution (Pareto NBD)
 and then, combined the output of these model with "GammaGammaDistribution" to construct "Customer Lifetime Value Prediction"
 
-### Results
+## Results
+### Purchased Prediction Error
 ![image](https://user-images.githubusercontent.com/104628789/173785337-19ab1565-6e03-45bb-adb4-47b12b1e18be.png)
+
+The results of these error is similar in all model - NG/NBD, MBG/NBD and Pareto NBD with insignificant different. However, the least error is "Pareto/NBD Model"
+
+### Predicted Customer Lifetime Value
+
+Customer Lifetime Value is a prognostication of the net profit contributed to the whole future relationship with a customer.
+
+![image](https://user-images.githubusercontent.com/104628789/173799231-5d98848d-667b-4ce0-ac03-701af7da3992.png)
+
 
 ![image](https://user-images.githubusercontent.com/104628789/173785409-ad28db21-7c2b-4693-971b-498b706031a3.png)
 
+The "Can't Loose" Customer pay highest CLV among the rest of segments in every model, followed by Loyal Customer and At-Risk. These figure could supplement the important of these customer type to abide by the actionable strategy in order to maximize marketing campagin efficiency. 

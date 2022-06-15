@@ -90,3 +90,6 @@ Customer Lifetime Value is a prognostication of the net profit contributed to th
 ![image](https://user-images.githubusercontent.com/104628789/173785409-ad28db21-7c2b-4693-971b-498b706031a3.png)
 
 The "Can't Loose" Customer pay highest CLV among the rest of segments in every model, followed by Loyal Customer and At-Risk. These figure could supplement the important of these customer type to abide by the actionable strategy in order to maximize marketing campagin efficiency. 
+
+## Notebook
+you can find notebook [here](https://github.com/WarintornNawong/Portfolio/blob/main/E-commerce%20RFM%20%26%20CLV%20Prediction/e-commerce%20clv%20prediction.ipynb)

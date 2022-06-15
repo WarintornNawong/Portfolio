@@ -1,5 +1,6 @@
 # E-commerce Customer Segmentation and Customer Lifetime Value Prediction
 ## Introduction
+In markerting task, the most concept before formulating any strategy is to "Know Your Customer (KYC)" to put the right strategy with the right people. Therefore, the history data would play major role to create and constructing the "Customer Segmentation" and and to build the customer lifetime value indicator to help personalization more effective.
 ### DATASET 
 - Data Set Information:
 

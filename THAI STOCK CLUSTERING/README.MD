@@ -81,8 +81,13 @@ To find the best algorithm for stock clustering, I applied the heat map for calc
 ![image](https://user-images.githubusercontent.com/104628789/173779067-4839683e-9f94-4c1a-bfb5-c4083a792b39.png)
 
 ## Conclustion
-these can be clustered into 6 cluster with the following characteristics and key information,
+these can be clustered into 6 cluster with the following characteristics and key information. As the results, the most differentiated algorithm is "Birch" which could summarized with the following definition and cluster number, 
 
-I. "High Interest Coverage Ratio" : the group of stock 
+- **"Moderate Preformance Group"** : The cluster of stock with moderate in all financial ratios.
+- **"Well-performed Group"** : The cluster of stock with high NPM and PTR.
+- **"Late conversion of Cash"** : The cluster of stock with highly converted process of cash.
+- **"Interest Struggling Group"**: The cluster of stock with extremely high ICR.
+- **"Lack of Cash Group"** : The cluster of stock with minus in "CFO" with still profit.
+- **"Losses Group"** : The cluster of stock with loss in NPM.
 
 

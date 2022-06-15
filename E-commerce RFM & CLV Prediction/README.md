@@ -16,7 +16,7 @@ a transnational data set which contains all the transactions occurring between 0
 7.**CustomerID**: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 8. **Country**: Country name. Nominal, the name of the country where each customer resides.
 
-## PART I. DATASET INFORMATION
+## PART I. Exploratory Data Analysis
 ![image](https://user-images.githubusercontent.com/104628789/173783431-283a1b05-7c20-4868-9383-4e2ee779b6f5.png)
 ![image](https://user-images.githubusercontent.com/104628789/173783513-a65e696b-f90d-493d-9db6-53347cd848c4.png)
 ![image](https://user-images.githubusercontent.com/104628789/173783542-208c0af5-d97a-4ada-bf26-ea477eea01f7.png)

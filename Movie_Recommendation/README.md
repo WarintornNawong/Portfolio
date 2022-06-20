@@ -73,7 +73,7 @@ This step is to compare between the selected algorithm for finding the best algo
 - **Singalua value Decomposition plusplus (SVD++)** : {'n_factors': 30, 'n_epochs': 15, 'lr_all': 0.008, 'reg_all': 0.02} with RMSE 0.9129
 - **Base Line Options : Alternating Least Square (ALS)** : {'bsl_options': {'method': 'als', 'n_epochs': 10, 'lr_all': 0.002, 'reg_all': 0.4}} with RMSE 0.9194
 
-With these step, I found out that the best algorithm is "SVP++" with rmse is 0.9129 for test set. Therefore, I decided to select this algorithm for "Individual User Movie Rating Prediction".
+With these step, I found out that the best algorithm is "SVD++" with rmse is 0.9129 for test set. Therefore, I decided to select this algorithm for "Individual User Movie Rating Prediction".
 
 ## Hybrid Recommendation
 This step is to merge between the similarity score for being a representative score for each film with and indivudual movie rating prediction which is range between 0 to 5.0 to construct the personalised score with following methodology:

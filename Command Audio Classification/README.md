@@ -4,59 +4,59 @@
 **Speech command dataset** : An audio dataset of spoken words designed to help train and evaluate keyword spotting systems. Its primary goal is to provide a way to build and test small models that detect when a single word is spoken, from a set of ten target words, with as few false positives as possible from background noise or unrelated speech. Note that in the train and validation set, the label "unknown" is much more prevalent than the labels of the target words or background noise. One difference from the release version is the handling of silent segments. While in the test set the silence segments are regular 1 second files, in the training they are provided as long segments under "background_noise" folder. Here we split these background noise into 1 second clips, and also keep one of the files for the validation set. you can find data set [here](http://storage.googleapis.com/download.tensorflow.org/data/mini_speech_commands.zip)
 
 ## Key Findings
-#### 5 Example of Wave form and Spectrogrma of "UP" command
+#### 5 Example of Wave form and Spectrogram of "UP" command
 ![image](https://user-images.githubusercontent.com/104628789/170480583-ae10e1d2-008f-4b25-8039-ab371e4a2380.png)
 
 - **Observation**
 
 In Amplitude per time, the sound "Up" showed that it expand quickly with a short period of time to normalize, escpecially in spectogram graph it occured in low frequency with a short time.
 
-#### 5 Example of Wave form and Spectrogrma of "DOWN" command
+#### 5 Example of Wave form and Spectrogram of "DOWN" command
 ![image](https://user-images.githubusercontent.com/104628789/170480634-97d8713d-6e16-436b-a2c8-9aa2b3d2fd64.png)
 
 - **Observation**
 
 The "Down" word is obviously far longer than the "Up" word and its amlitude is louder at first charactor "D" and fader at last character "wn". In Spectrogram, the frequency band is wider than "UP" with higher frequency and time.
 
-#### 5 Example of Wave form and Spectrogrma of "LEFT" command
+#### 5 Example of Wave form and Spectrogram of "LEFT" command
 ![image](https://user-images.githubusercontent.com/104628789/170480721-bc7786fc-b266-41f3-aa8b-fa739c9fae85.png)
 
 - **Observation**
 
 The word "left" showed that its amplitude is mostly pronounced at "F" character than first character "L" so they visualized the pyramid-like shape with the remaining "T" word pronouciation for emphasizing later. In spectogram, the "F" and "T" are observed with high freqeuncy band than the first charactor.
 
-#### 5 Example of Wave form and Spectrogrma of "RIGHT" command
+#### 5 Example of Wave form and Spectrogram of "RIGHT" command
 ![image](https://user-images.githubusercontent.com/104628789/170480758-f2d3221a-372b-4410-98e7-8a1322702d13.png)
 
 - **Observation**
 
 The "Right" word is pronounced equally thorought all the word as they can be seen in "Amplitude" graph.
 
-#### 5 Example of Wave form and Spectrogrma of "GO" command
+#### 5 Example of Wave form and Spectrogram of "GO" command
 ![image](https://user-images.githubusercontent.com/104628789/170480792-93533e1f-86a1-4b6f-a85e-94c986ee7023.png)
 
 - **Observation**
 
 The "Go" word is pronounced equally and simply in both amplitude and spectogram graph.
 
-#### 5 Example of Wave form and Spectrogrma of "STOP" command
+#### 5 Example of Wave form and Spectrogram of "STOP" command
 ![image](https://user-images.githubusercontent.com/104628789/170480834-f230b356-04a7-491c-9bd2-61befd0f1bcd.png)
 
 - **Observation**
 
 The "STOP" word is pronounced obviously at "T" in the second character so it showed the higher amplitude than any sequence of character and also higher ferquency band than the final charactor.
 
-#### 5 Example of Wave form and Spectrogrma of "YES" command
+#### 5 Example of Wave form and Spectrogram of "YES" command
 ![image](https://user-images.githubusercontent.com/104628789/170480875-b27c8da6-ff87-4a97-af92-038c4b4d252c.png)
 
 The "Yes" word is pronounced equally and simply in both amplitude and spectogram graph.
 
-#### 5 Example of Wave form and Spectrogrma of "NO" command
+#### 5 Example of Wave form and Spectrogram of "NO" command
 ![image](https://user-images.githubusercontent.com/104628789/170480953-aa3bf0aa-60a0-4a2d-8852-2574808c5ba5.png)
 
 The "No" word is pronounced equally and simply in both amplitude and spectogram graph.
 
-####  Example of Wave form and Spectrogrma of All command
+####  Example of Wave form and Spectrogram of All command
 ![image](https://user-images.githubusercontent.com/104628789/170481090-a0be1b7b-9c05-4ba6-b7e3-80345712152b.png)
 
 ### All Command Distribution

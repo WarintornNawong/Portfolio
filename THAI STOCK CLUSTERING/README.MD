@@ -57,6 +57,7 @@ The clustering model I selected to apply for these dataset is specified below,
 
 ### Optinum Number of Cluster Selection
 ![image](https://user-images.githubusercontent.com/104628789/173777712-b86b6bdf-3297-41ed-a9cf-af645211d321.png)
+
 I selected is "Elbow Method and Silhoutte Score" to find the optimal number of cluster based on its similarity within cluster and dissimilarity between external stock. The results showed that 6 is the most optimal number between elbow approach and peak silhoutte score so i decided to apply 6 cluster with all model.
 
 ## Relative Importance Heat Map

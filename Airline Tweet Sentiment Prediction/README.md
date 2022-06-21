@@ -28,15 +28,25 @@ United Airline ranked first in high negative sentiment tweet, followed by U.S. A
 Before developing model, I applied the step of cleaning & Preprocssing with the following details,
 
 1.Remove airline
+
 2.Remove url
+
 3.Remove HTML Tags
+
 4.Expand Contraction
+
 5.lowercase 
+
 6.Remove repeated character
+
 7.Remove Number
+
 8.Remove puntuation    
+
 9.Remove STOPWORDS
+
 10.Remove Whitespace
+
 11.Convert to lemmatized word
 
 ## PART III. Model Construction

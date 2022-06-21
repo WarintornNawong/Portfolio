@@ -26,6 +26,7 @@ United Airline ranked first in high negative sentiment tweet, followed by U.S. A
 
 ## Part II. Text Processing
 Before developing model, I applied the step of cleaning & Preprocssing with the following details,
+
 1.Remove airline
 2.Remove url
 3.Remove HTML Tags

@@ -15,7 +15,7 @@ For image classification task, I applied fortransfer learning from pre-trained D
 
 ![image](https://user-images.githubusercontent.com/104628789/170415821-ba8c23b0-1dd0-484e-b52d-0bc62333c87c.png)
 
-As a results, the ResNet50 provide an accuracy at 94.6 % in weather classification dataset.
+As a results, the ResNet50 provide an accuracy at 98.82 % in weather classification dataset.
 #### Results of Prediction
 ![image](https://user-images.githubusercontent.com/104628789/170414190-2caf8969-a3a2-4cd4-9d9a-e632d193c1ae.png)
 

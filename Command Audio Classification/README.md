@@ -71,8 +71,9 @@ I applied the CNN to classify and differentiate between thier command. Firstly, 
 - Results
 
 
+![image](https://user-images.githubusercontent.com/104628789/174714119-54c7205e-6e6c-4c88-b4f9-b543396ab8ab.png)
 
-![image](https://user-images.githubusercontent.com/104628789/170482342-9e5ae900-72c5-4cb6-9ae7-ab92bb41afda.png)
+
 
 
 With single set of CNN, the accuracy of this results was 71.25 %.Therefore, I would like to gradually increase a model complexity in the sixth attempt below,
